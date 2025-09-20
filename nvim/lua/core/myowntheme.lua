@@ -1,4 +1,3 @@
--- ~/.config/nvim/colors/rainbow12.lua
 vim.o.background = "dark"
 vim.cmd("hi clear")
 if vim.fn.exists("syntax_on") then
